@@ -10,7 +10,7 @@ Caixeiro Viajante implementado em java. desenvolvido na disciplina de Programaç
 /*****************************************************************
  * Explique como você implementou a heurística da "inserção mais
  * próxima".
- *****************************************************************/
+  /*****************************************************************/
 	Calculando a distância entre o novo ponto(novo.p) e a variavel 
 	auxiliar(aux.p) que percorre a lista até chegar no fim. Quando essa
 	distância for menor do que as outras a variavel auxiliar é salva 
