@@ -1,13 +1,10 @@
 # travelling-salesman
 Caixeiro Viajante implementado em java. desenvolvido na disciplina de Programação Orientada a Objetos (UFPEL).
 
-
-/*****************************************************************
- *  Relatório                                                   
- *  TSP Heuristics
- ****************************************************************/
-
-Quantas horas foram necessárias para completar a tarefa (opcional):
+*  Relatório                                                   
+*  TSP Heuristics
+ 
+ Quantas horas foram necessárias para completar a tarefa (opcional):
 18(dezoito) horas 
 
 /*****************************************************************
